@@ -17,6 +17,137 @@ p {
   font-size:45px;
   font-color: pink;
 }
-.img {
-opacity: 0.8;
+.content-box {
+	padding: 2%;
+	background-color: #ffffff73;
 }
+
+.action-button {
+	background-color: turquoise;
+	padding: 6px 26px;
+	border: 1px solid white;
+}
+
+h1 {	
+	text-decoration: underline;
+	text-align:center;
+	font-family: times new roman;
+}
+
+.landing-page h1 {
+	margin-top: 0;
+	margin-bottom: 30px;
+}
+
+h2 {
+	color: #fa4646
+	display: inline;
+	padding: 2px 13px;		
+}
+
+h3 {
+	text-decoration: underline;		
+}
+
+p {
+	font-family: times new roman;
+}
+
+ul { 
+	border:3px solid black;
+	padding-top: 1%;
+	padding-bottom: 1%;
+	padding-right: 1%;
+	padding-left: 3%;
+	margin-left: 2cm;
+	max-width: 20cm;
+}
+
+li { 
+	margin: 2px;
+}
+
+.subscribe-page {
+ 	background-image: url("../img/Bild.jpg"); 
+	
+}
+
+.email-box {
+ 	text-align:center;
+ 	font-weight: bold;
+	padding: 12px 20px;	
+        justify-content:center;
+	align-items:center;
+ 	position: center;
+	justify-content:center;
+	align-items:center;
+	box-shadow: 0 5px 5px #313131, 0 9px 0 #393939, 0px 9px 10px rgba(0,0,0,0.4), inset 0px 2px 9px rgba(255,255,255,0.2), inset 0 -2px 9px rgba(0,0,0,0.2);
+	margin-left: auto;
+	margin-right: auto;
+	background-color:#2f8cc2;
+}
+
+select{
+
+	text-align:center;
+ 	font-weight: bold;
+	padding: 12px 20px;
+	background-color:#2f8cc2;
+        justify-content:center;
+	align-items:center;
+ 	position: center;
+	 justify-content:center;
+	align-items:center;
+	text-shadow: 0px -1px 0px rgba(0,0,0,0.2);
+	margin-left: auto;
+	margin-right: auto;
+	box-shadow: 0 5px 5px #313131, 0 9px 0 #393939, 0px 9px 10px rgba(0,0,0,0.4), inset 0px 2px 9px rgba(255,255,255,0.2), inset 0 -2px 9px rgba(0,0,0,0.2);
+}
+
+.subscribe-page form {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+
+input [type=text] {
+    	padding: 5px; 
+    	border: 1px solid black;
+}
+
+span.email-box {
+	border: 1px solid black;
+	padding: 5px;
+}	
+
+select {
+	border: 1px solid black;
+	padding: 5px;	
+}
+
+input [reset] {
+    	padding:5px 15px; 
+    	background:#ccc; 
+    	border:0 none;
+    	cursor:pointer;
+    	-webkit-border-radius: 5px;
+    	border-radius: 5px; 
+}
+
+input [submit] {
+	padding:5px 15px; 
+    	background:#ccc; 
+    	border:0 none;
+    	cursor:pointer;
+    	-webkit-border-radius: 5px;
+    	border-radius: 5px; 
+}
+input {
+	padding:5px 15px; 
+    	background:#ccc; 
+    	border:0 none;
+    	cursor:pointer;
+    	-webkit-border-radius: 5px;
+    	border-radius: 5px; 
+}	
+	
