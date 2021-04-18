@@ -1,12 +1,17 @@
 body {
-  background-image: url (../img/download.jpg);  
-  background-color:rainbow;
+background-image: url(../img/download.jpg);
+  background-color: pink;
 }
 
 h1 {
   text-align: center;
   margin: 0px;
-  font-size: 90px;
-  color: pink;
+  font-size: 70px;
+  color: #070707;
+  
 }
-
+p {
+  text-align: center;
+  margin: opx;
+  font-size:100px;
+  font-color:pink;
