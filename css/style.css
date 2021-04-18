@@ -13,9 +13,9 @@ h1 {
 }
 p {
   text-align: center;
-  margin: opx;
-  font-size:30px;
-  font-color:pink;
+  margin: 0px;
+  font-size:45px;
+  font-color: pink;
 }
 .img {
 opacity: 0.8;
