@@ -1,6 +1,10 @@
 body {
-  background-image: url ("download.jpg");
+  background-image: url ("download.jpg");  
     
-    
-    
+}
+
+h1 {
+  text-align: center;
+  margin: 0px;
+  font-size: 70px;
 }
