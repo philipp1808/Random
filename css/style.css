@@ -1,6 +1,7 @@
 body {
 background-image: url(../img/download.jpg);
   background-color: pink;
+  background-repeat:no-repeat:
 }
 
 h1 {
