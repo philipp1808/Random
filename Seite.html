@@ -46,7 +46,15 @@
 	 <input type="submit"value=Absenden>
 	</span>
           
- 
+ function graustufen() {
+var grau = document.form3.graufeld.value;
+document.getElementsByTagName("body")[0].style.backgroundColor = "rgb("+ grau +"%,"+ grau +"%, " +grau+"%)";
+}
+<form name="form3">
+<input type="text" name="graufeld" size="5">
+<input type="button" value="Graustufe eingeben" onClick="graustufen()">
+</form>
+
     
     
     
