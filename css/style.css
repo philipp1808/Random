@@ -19,7 +19,7 @@ color: var(--e-global-color-primary);
     font-family: var(--e-global-typography-primary-font-family),Sans-serif;
     font-weight: var(--e-global-typography-primary-font-weight);
 }
-}
+
 .content-box {
 	padding: 2%;
 	background-color: #ffffff73;
