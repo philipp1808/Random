@@ -14,11 +14,11 @@ h1 {
 p {
   text-align: center;
   margin: 0px;
-  font-size:45px;
-color: var(--e-global-color-primary);
-    font-family: var(--e-global-typography-primary-font-family),Sans-serif;
-    font-weight: var(--e-global-typography-primary-font-weight);
+  font-size:30px;
+color: white;
+font-family:arial, "lucida console", sans-serif;
 }
+
 
 .content-box {
 	padding: 2%;
