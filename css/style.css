@@ -1,9 +1,9 @@
 body {
-background-image: url(../img/hintergrundbild.jpg;
+  background-image: url(../img/hintergrundbild.jpg);
   background-color: pink;
-  background-repeat: no-repeat:
-}
-
+  background-repeat: no-repeat;
+	}
+	
 h1 {
   text-align: center;
   margin: 0px;
