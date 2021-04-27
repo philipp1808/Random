@@ -167,9 +167,9 @@ background-image{
   font-size: 80px;
   color: #070000;
   text-align: center;
-  -webkit-animation: glow 1s ease-in-out infinite alternate;
-  -moz-animation: glow 1s ease-in-out infinite alternate;
-  animation: glow 1s ease-in-out infinite alternate;
+  -webkit-animation: glow 10s ease-in-out infinite alternate;
+  -moz-animation: glow 10s ease-in-out infinite alternate;
+  animation: glow 10s ease-in-out infinite alternate;
 }
 
 @-webkit-keyframes glow {
