@@ -40,7 +40,7 @@ p {
 h1 {	
 	text-decoration: underline;
 	text-align:center;
-	font-family: times new roman;
+	font-family: fantasy;
 }
 
 .landing-page h1 {
@@ -165,7 +165,7 @@ background-image{
 }
 .glow {
   font-size: 80px;
-  color: #070000;
+  color: #fff;
   text-align: center;
   -webkit-animation: glow 10s ease-in-out infinite alternate;
   -moz-animation: glow 10s ease-in-out infinite alternate;
@@ -174,10 +174,10 @@ background-image{
 
 @-webkit-keyframes glow {
   from {
-    text-shadow: 0 0 10px #070000, 0 0 20px #070000, 0 0 30px #04a304, 0 0 40px #04a304, 0 0 50px #04a304, 0 0 60px #04a304, 0 0 70px #04a304;
+    text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #04a304, 0 0 40px #04a304, 0 0 50px #04a304, 0 0 60px #04a304, 0 0 70px #04a304;
   }
   to {
-    text-shadow: 0 0 20px #070000, 0 0 30px #03ff00, 0 0 40px #03ff00, 0 0 50px #03ff00, 0 0 60px #03ff00, 0 0 70px #03ff00, 0 0 80px #03ff00;
+    text-shadow: 0 0 20px #fff, 0 0 30px #03ff00, 0 0 40px #03ff00, 0 0 50px #03ff00, 0 0 60px #03ff00, 0 0 70px #03ff00, 0 0 80px #03ff00;
   }
 }
 
