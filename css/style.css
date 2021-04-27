@@ -1,7 +1,10 @@
 body {
   background-image: url(../img/fortnite-lama-wailing.jpg);
- 
   background-repeat: repeat;
+	marging:  0;
+	padding: 0;
+	background-size: cover;
+	
 	}
 	
 h1 {
