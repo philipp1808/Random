@@ -1,6 +1,10 @@
 body {
   background-image: url(../img/fortnite-lama-wailing.jpg);
- 
+ display: flex;
+	justify-content: center;
+	align-items: center;
+	min-height: 100vh;
+	background: #000;
   background-repeat: no-repeat;
 	}
 	
