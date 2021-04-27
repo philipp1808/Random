@@ -32,9 +32,9 @@ p {
 }
 
 .action-button {
-	background-color: turquoise;
+	background-color: #525252;
 	padding: 6px 26px;
-	border: 1px solid white;
+	border: 0px;
 }
 
 h1 {	
