@@ -164,7 +164,7 @@ background-image{
         height:auto;
 }
 .glow {
-  font-size: 80px;
+  font-size: 75px;
   color: #fff;
   text-align: center;
   -webkit-animation: glow 10s ease-in-out infinite alternate;
