@@ -3,9 +3,6 @@ body {
  
   background-repeat: no-repeat;
 	}
-{
-	font-family: "Poppins", sans-serif;
-}
 	
 h1 {
   text-align: center;
@@ -18,8 +15,9 @@ p {
   text-align: center;
   margin: 0px;
   font-size:30px;
-color: white;
-font-family:arial, "lucida console", sans-serif;
+	padding: 0;
+	box-sizing: border-box;
+	font-family: "Poppins", sans-serif;
 }
 
 
