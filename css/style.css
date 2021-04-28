@@ -190,10 +190,10 @@ background-image{
 
 @-webkit-keyframes glow {
   from {
-    text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #04a304, 0 0 40px #04a304, 0 0 50px #04a304, 0 0 60px #04a304, 0 0 70px #04a304;
+    text-shadow: 0 0 5px #fff, 0 0 5px #fff, 0 0 15px #04a304, 0 0 40px #04a304, 0 0 50px #04a304, 0 0 60px #04a304, 0 0 70px #04a304;
   }
   to {
-    text-shadow: 0 0 20px #fff, 0 0 30px #03ff00, 0 0 40px #03ff00, 0 0 50px #03ff00, 0 0 60px #03ff00, 0 0 70px #03ff00, 0 0 80px #03ff00;
+    text-shadow: 0 0 5px #fff, 0 0 15px #03ff00, 0 0 20px #03ff00, 0 0 50px #03ff00, 0 0 60px #03ff00, 0 0 70px #03ff00, 0 0 80px #03ff00;
   }
 }
 
