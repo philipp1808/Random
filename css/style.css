@@ -14,6 +14,8 @@ h1 {
   font-size: 70px;
  font-color:#35fc03;
 	font-family: fantasy;
+	border: 1px;
+	border-color: white;
   
 }
 p {
